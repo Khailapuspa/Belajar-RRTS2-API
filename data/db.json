@@ -1,0 +1,21 @@
+{
+  "ids": {
+    "baju": 5,
+    "Baju": 8
+  },
+  "models": {
+    "baju": {
+      "1": "{\"title\":\"Kaos\",\"desc\":\"Kaos adem bagus\",\"Harga\":20000,\"id\":1}",
+      "2": "{\"title\":\"Celana\",\"desc\":\"Celana Keren\",\"Harga\":15000,\"id\":2}"
+    },
+    "Baju": {
+      "1": "{\"title\":\"tes\",\"desc\":\"tes\",\"harga\":12000,\"id\":1}",
+      "2": "{\"title\":\"tes2\",\"desc\":\"tes2\",\"harga\":15000,\"id\":2}",
+      "3": "{\"title\":\"tes3\",\"desc\":\"tes3\",\"harga\":18000,\"id\":3}",
+      "4": "{\"title\":\"tes4\",\"desc\":\"tes4\",\"harga\":25000,\"id\":4}",
+      "5": "{\"title\":\"tes5\",\"desc\":\"tes5\",\"harga\":26000,\"id\":5}",
+      "6": "{\"title\":\"Kaos Oblong\",\"desc\":\"Berbahan Tipis\",\"harga\":50000,\"id\":6}",
+      "7": "{\"title\":\"Kaos Oblong\",\"desc\":\"Berbahan Tipis\",\"harga\":50000,\"id\":7}"
+    }
+  }
+}
